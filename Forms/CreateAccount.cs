@@ -42,9 +42,9 @@ namespace TextScape
             var utf = new UTF8Encoding(); //used for accounts
             byte[] line = new byte[combined.Length];
             utf.GetBytes(combined, 0, combined.Length, line, 0);
-            using (var fs = new BinaryWriter(File.Open(AppDomain.CurrentDomain.BaseDirectory + "\\user.dat",FileMode.Append)))
+            using (StreamWriter sw = new StreamWriter())
             {
-                fs.Write(line, 0, line.Length);
+                sw.WriteLine();
             }
 
                 this.Close();
