@@ -1,0 +1,12 @@
+\\swgdevdc01\student_data\ACITTADINO\Documents\Year 2\End of Year Project\TextScape\TextScape\obj\Debug\TextScape.csprojAssemblyReference.cache
+\\swgdevdc01\student_data\ACITTADINO\Documents\Year 2\End of Year Project\TextScape\TextScape\obj\Debug\TextScape.Properties.Resources.resources
+\\swgdevdc01\student_data\ACITTADINO\Documents\Year 2\End of Year Project\TextScape\TextScape\obj\Debug\TextScape.csproj.GenerateResource.cache
+\\swgdevdc01\student_data\ACITTADINO\Documents\Year 2\End of Year Project\TextScape\TextScape\obj\Debug\TextScape.csproj.CoreCompileInputs.cache
+\\swgdevdc01\student_data\ACITTADINO\Documents\Year 2\End of Year Project\TextScape\TextScape\bin\Debug\TextScape.exe.config
+\\swgdevdc01\student_data\ACITTADINO\Documents\Year 2\End of Year Project\TextScape\TextScape\bin\Debug\TextScape.exe
+\\swgdevdc01\student_data\ACITTADINO\Documents\Year 2\End of Year Project\TextScape\TextScape\bin\Debug\TextScape.pdb
+\\swgdevdc01\student_data\ACITTADINO\Documents\Year 2\End of Year Project\TextScape\TextScape\obj\Debug\TextScape.StartScreen.resources
+\\swgdevdc01\student_data\ACITTADINO\Documents\Year 2\End of Year Project\TextScape\TextScape\obj\Debug\TextScape.exe
+\\swgdevdc01\student_data\ACITTADINO\Documents\Year 2\End of Year Project\TextScape\TextScape\obj\Debug\TextScape.pdb
+\\swgdevdc01\student_data\ACITTADINO\Documents\Year 2\End of Year Project\TextScape\TextScape\obj\Debug\TextScape.CreateAccount.resources
+\\swgdevdc01\student_data\ACITTADINO\Documents\Year 2\End of Year Project\TextScape\TextScape\obj\Debug\TextScape.Game.resources
